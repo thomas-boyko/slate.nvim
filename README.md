@@ -11,7 +11,6 @@ vim.pack.add({
 })
 ```
 
-In your config:
 
 ```lua
 vim.cmd('colorscheme slate')
